@@ -4,9 +4,10 @@ I built a clock with a moving second-hand.
 I used the transition-timing-function so that the second hand will bounce over & back like a real mechanical second hand.
 
 Things I learned while completing this app:
-
--transform and transition CSS properties
--transition-timing-function 
+<ol>
+  <li>transform and transition CSS properties</li>
+<li>transition-timing-function </li>
+  </ol>
 
 Goals:
 -Make it mobile responsive
